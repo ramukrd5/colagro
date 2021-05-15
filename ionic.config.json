@@ -1,0 +1,7 @@
+{
+  "name": "colagroapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
